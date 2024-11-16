@@ -10,22 +10,9 @@
 		53D62B242CE92CD1009F5C21 /* Football_Team.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Football_Team.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		53D62B402CE92EB6009F5C21 /* Exceptions for "Football_Team" folder in "Football_Team" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"Football-Team-Info.plist",
-			);
-			target = 53D62B232CE92CD1009F5C21 /* Football_Team */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		53D62B262CE92CD1009F5C21 /* Football_Team */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				53D62B402CE92EB6009F5C21 /* Exceptions for "Football_Team" folder in "Football_Team" target */,
-			);
 			path = Football_Team;
 			sourceTree = "<group>";
 		};
